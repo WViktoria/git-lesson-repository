@@ -1,0 +1,16 @@
+Remove duplicate lines
+
+3 redirections
+1 setup the environment
+4 manipulations
+2 basic terminal operations
+
+Print all words with basic
+2 basic terminal operations
+2 basic terminal operations
+2 basic terminal operations
+
+Print all lines without basic
+3 redirections
+1 setup the environment
+4 manipulations
